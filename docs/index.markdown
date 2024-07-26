@@ -10,4 +10,4 @@ title: "ソフトウェア工学 2024"
 
 git/github演習
 
-[software_summary]{/docs/software_summary}
+[software_summary](/docs/software_summary)
